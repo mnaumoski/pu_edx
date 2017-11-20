@@ -1,0 +1,28 @@
+/*All h5 within primary source*/
+.heading {
+   font-size: 18px !important;
+  text-align: center;
+}
+/*paragraphs for a poem*/
+
+p { 
+	text-align: center !important;
+}
+
+/* centering an image and text */
+.center {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+}
+
+/*Navtip*/
+  .navTip {
+     border-left-style: solid !important; 
+     border-color: #f38034 !important;
+    padding: 15px !important;
+    background: #FBD8C2; 
+ 
+  }
+
